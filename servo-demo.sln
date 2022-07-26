@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "servo-demo", "servo-demo\servo-demo.pyproj", "{7AA2C1A9-0951-4DA3-80DD-DB0371CA62FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA2C1A9-0951-4DA3-80DD-DB0371CA62FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA2C1A9-0951-4DA3-80DD-DB0371CA62FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {495D813C-556D-47B1-A2C9-1A3752BA80E8}
+	EndGlobalSection
+EndGlobal
